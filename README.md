@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="27" alt="figma logo"  />
 </div>
 
-###
+##
 
 <div align="center">
 <a href="https://discord.com/channels/@paulo10_" target="discord">
@@ -39,4 +39,4 @@
   </a>
 </div>
 
-###
+##
