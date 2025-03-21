@@ -1,4 +1,4 @@
-<h1 align="left">Hello Wold...<br>My name is Paulo</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8300F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=HI%2C+MY+NAME+IS+PAULO+ARTUR+PEREIRA;I'M+A+BEGINNER+PROGRAMER;AND...+HELLO+WOLD!!!)](https://git.io/typing-svg)
 
 ###
 
@@ -38,7 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/.github/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/output/snake.svg" alt="Snake animation" />
 
 ###
 
