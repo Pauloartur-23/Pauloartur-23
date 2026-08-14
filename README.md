@@ -1,33 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi%2C+my+name+is+Paulo+Artur+Pereira;I'm+a+beginner+programmer;Welcome+to+my+GitHub!;Hello+World!)](https://git.io/typing-svg)
+```java
+class PauloArtur extends Desenvolvedor {
 
----
+    String nome = "Paulo Artur Pereira";
+    String area = "Front-end Developer";
+    String foco = "Web Development";
+    String local = "Brasil";
 
-## About Me
+    String[] linguagens = {
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    };
 
-- Beginner programmer, always learning  
-- Focused on **Web Development**  
-- Interested in **Front-end & Back-end**  
+    String[] frameworks = {
+        "Vue.js",
+        "React",
+        "Django"
+    };
 
----
+    String[] ferramentas = {
+        "Tailwind CSS",
+        "Git",
+        "Figma"
+    };
+}
+```
 
-## Tech Stack
+###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
+###
