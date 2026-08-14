@@ -1,32 +1,64 @@
 ```java
-class PauloArtur extends Desenvolvedor {
+public class PauloArtur {
+
+    public static void main(String[] args) {
+        Desenvolvedor dev = new Desenvolvedor();
+        dev.code();
+        dev.learn();
+        dev.fazerCafe();
+    }
+}
+
+class Desenvolvedor {
 
     String nome = "Paulo Artur Pereira";
-    String area = "Front-end Developer";
+    String role = "Desenvolvedor Multi-linguagem";
     String foco = "Web Development";
-    String local = "Brasil";
+    String local = "Joinville - SC";
 
     String[] linguagens = {
         "JavaScript",
-        "TypeScript",
-        "Python"
+        "Python",
+        "Java",
+        "SQL"
     };
 
     String[] frameworks = {
         "Vue.js",
         "React",
+        "React Native",
         "Django"
+    };
+
+    String[] bancosDeDados = {
+        "MySQL",
+        "PostgreSQL"
     };
 
     String[] ferramentas = {
         "Tailwind CSS",
         "Git",
+        "GitHub",
         "Figma"
     };
+
+    public void code() {
+        System.out.println("Transformando ideias em código...");
+    }
+
+    public void learn() {
+        System.out.println("Nunca para de aprender novas tecnologias.");
+    }
+
+    public void fazerCafe() {
+        System.out.println("Café em 3, 2, 1...");
+    }
+
+    public String sobre() {
+        return "Dev apaixonado por front-end.";
+    }
 }
 ```
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -34,10 +66,5 @@ class PauloArtur extends Desenvolvedor {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pauloartur-23/Pauloartur-23/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+---
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
